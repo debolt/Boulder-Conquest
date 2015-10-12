@@ -1,0 +1,6 @@
+
+python -m CGIHTTPServer 8000
+
+Just make sure that all your files are in the same directory, then run that command to start the server
+
+
