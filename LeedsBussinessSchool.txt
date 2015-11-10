@@ -7,6 +7,7 @@
 
 \f0\fs34 \cf2 \expnd0\expndtw0\kerning0
 Accounting\
+Buisness Administration\
 Finance\
 Management and Entrepreneurship\
 Marketing}
